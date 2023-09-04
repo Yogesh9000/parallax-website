@@ -84,15 +84,15 @@ section {
 }
 
 .bg1 {
-  background-image: url(img1.jpg);
+  background-image: url(images/img1.jpg);
   object-fit: cover;
 
 }
 .bg2 {
-  background-image: url(img2.jpg);
+  background-image: url(images/img2.jpg);
   object-fit: cover;
 }
 .bg3 {
-  background-image: url(img3.jpg);
+  background-image: url(images/img3.jpg);
   object-fit: cover;
 }
